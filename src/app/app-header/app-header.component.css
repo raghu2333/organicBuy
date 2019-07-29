@@ -1,0 +1,39 @@
+.header {
+    background-color: #60AD36;
+    padding: 10px;
+}
+.header .row{
+    margin: 0px 15px 0px 15px;
+    height: 41px;
+}
+.header_p1{
+    width: 20%;
+    float: left;
+}
+.header_p2{
+    float: left;
+    width: 57%;
+    padding: 2px 15px 2px 0;
+}
+.header_search{
+    width: 100%;
+    float: left;
+}
+.header_p2 .search_field{
+    line-height: 34px;
+    padding-left: 34px;
+    width: 82%;
+    border: none;
+    float: left;
+}
+.header_p2 button{
+    width: 9%;
+    height: 37px;
+    border-left: 1px solid #0000002e;
+    border-radius: 1px;
+    border-width: 1px !important;
+    text-align: center;
+    background: #FFFFFF;
+    padding: 0px !important;
+    margin: 0px !important;
+}
